@@ -7,6 +7,11 @@ footer{
 	height: 100%;
 }
 
+.content_footer_left{
+    position: relative;
+    display: flexbox;
+    
+}
 
 
 .web_footer_alternative{
@@ -81,4 +86,42 @@ footer{
     left: 882px;
     color: white;
     bottom: 460px;
+}
+
+
+.form_footer_namesend{
+    position: relative;
+    border: 1px solid white;
+    left: 600px;
+    bottom: 560px;
+}
+
+.form_footer_email{
+    position: relative;
+    left: 215px;
+    bottom: 505px;
+}
+
+.footer_telephone_send{
+    position: relative;
+    left: 210px;
+    bottom: 505px;
+    text-align: center;
+    font-size: 15px;
+    height: 2.2em;
+}
+
+.form_footer_textmess{
+    position: relative;
+    right: 173px;
+    bottom: 350px;
+}
+
+.footer_send_button{
+    position: relative;
+    bottom: 285px;
+    right: 310px;
+    font-size: 16.5px;
+    height: 2.5em;
+    width: 135px
 }
