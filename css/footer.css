@@ -1,0 +1,84 @@
+footer{
+    position: relative;
+    background-color: #393939;
+    bottom: 0;
+    margin: 0 auto;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.web_footer_alternative{
+    font-family: 'Passion One', cursive;
+    position: relative;
+    font-size: 22px;
+    left: 233px;
+    top: 50px;
+    color: white;
+}
+
+.logo_footer_web{
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+
+.adress_footer_volochaevsk{
+    position: relative;
+    left: 290px;
+    top: 55px;
+    color: white;
+}
+
+.desk_image_footer{
+    position: relative;
+    left: 250px;
+    bottom: 20px;
+}
+
+.footer_maps_image{
+    position: relative;
+    border-radius: 100px;
+    left: 245px;
+    top: 25px;
+}
+
+.search_maps_footer{
+    position: relative;
+    text-align: center;
+    right: 335px;
+    bottom: 50px;
+    font-size: 18px;
+    color: gray;
+}
+
+.left_coorsor_footer{
+    position: relative;
+    color: rgb(170, 169, 169);
+    font-size: 32px;
+    bottom: 123px;
+    left: 348px;
+}
+
+.write_messege_company_01{
+    position: relative;
+    left: 600px;
+    color: white;
+    bottom: 420px;
+}
+
+.write_messege_company_02{
+    position: relative;
+    left: 600px;
+    color: white;
+    bottom: 428px;
+    font-size: 18px;
+}
+
+.write_messege_company_03{
+    position: relative;
+    left: 882px;
+    color: white;
+    bottom: 460px;
+}

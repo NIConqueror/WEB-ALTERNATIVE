@@ -4,14 +4,14 @@
 }
 .photobanner {
 	position: relative;
-	height: 233px;
+	height: 250px;
 	margin-bottom: 30px;
 	display: flex;
 	width: 100%;
 }
 
 .photobanner img {
-  margin: 0px 25px;
+  margin: 55px 25px;
   box-shadow: 2px 2px 8px #8a8a8a;
 }
 
@@ -21,9 +21,9 @@
 
 @keyframes bannermove {
   from {
-    left: 0px;
+    left: -150px;
   }
   to {
-    left: -2700px;
+    left: 10px;
   }
 }
